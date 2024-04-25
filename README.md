@@ -8,7 +8,6 @@ This project aims to create a smart waste bin management system using IoT techno
 - Load cell sensor
 - Laser sensor
 - LEDs
-- WiFi module
 
 ## Hardware 
 -**Please refer to the circuit diagram from "cir_dia" file.**
