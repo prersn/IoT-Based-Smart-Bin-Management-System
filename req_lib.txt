@@ -1,0 +1,17 @@
+ACAN_ESP32
+Adafruit_NeoPixel
+Adafruit_Unified_Sensor
+AJSP
+arduino_753033
+arduino_764215
+Arduino_ESP32_OTA
+ArduinoJson
+Arduino Websockets
+AVision ESP8266
+AWS_IOT
+DHT_sensor_library
+HX711_ADC
+IRremote ESP8266
+PGMTools
+PubSubClient
+WebSockets
