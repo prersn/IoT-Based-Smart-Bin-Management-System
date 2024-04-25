@@ -30,11 +30,12 @@ This project aims to create a smart waste bin management system using IoT techno
 
 ### 2. AWS Cloud Output Code
 -**To set up aws policy and thing**: follow this video tutorial "https://youtu.be/idf-gGXvIu4?si=keX8djYWjrWSXsWa".
-- **File Name**: `aws_cloud_output.ino`
+- **Folder Name**: `with_aws`
+- **Folder contains**: `with_aws` and `header.h`
 - **Description**: This code is used to connect the system to the AWS cloud for remote monitoring and data logging. It publishes weight data to AWS IoT for further analysis and management.
 - **How to Use**:
   1. Open the code file (`aws_cloud_output.ino`) in the Arduino IDE.
-  2. Ensure that the AWS IoT credentials and endpoints are correctly configured in the `secrets.h` file.
+  2. Ensure that the AWS IoT credentials and endpoints are correctly configured in the `header.h` file.
   3. Select the appropriate board and port from the Tools menu.
   4. Click on the "Upload" button to compile and upload the code to the microcontroller.
 
