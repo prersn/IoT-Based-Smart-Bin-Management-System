@@ -13,10 +13,10 @@ This project aims to create a smart waste bin management system using IoT techno
 ## Hardware 
 -**Please refer to the circuit diagram from "cir_dia" file.**
 
-## Code Files
-
 ## Library installations:
 -**Please download all the libraries listed out in the "req_lib.txt" file before compiling the code**
+
+## Code Files
 
 ### 1. Serial Monitor Output Code
 - **File Name**: `serial_monitor_output.ino`
